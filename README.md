@@ -18,7 +18,7 @@ We propose a method for inferring an egocentric dense depth map from an RGB imag
 To force the learning of this inductive bias, we propose to optimize for an ill-posed objective during training: predicting latent features that are not observed in the input view, but exist in the 3D scene. "Empty" regions in the latent space that correspond to regions occluded from the input view are completed by a Contextual eXtrapolation (ConteXt) mechanism based on features visible in input view. We term our method "Occluded Region Completion as Supervision" or ORCaS.
 
 ## 🏆 Key Results
-* **State-of-the-Art Performance:** We evaluate ORCaS on VOID1500 and NYUv2 benchmark datasets, where we improve over the best existing method by 8.91% across all metrics[cite: 12].
+* **State-of-the-Art Performance:** We evaluate ORCaS on VOID1500 and NYUv2 benchmark datasets, where we improve over the best existing method by 8.91% across all metrics.
 * **Generalization:** ORCaS improves generalization from VOID1500 to ScanNet and NYUv2 by 15.7%.
 * **Robustness:** Improves robustness to low density inputs by 31.2%.
 
