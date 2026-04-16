@@ -2,7 +2,7 @@
 Official repo for ORCaS: Unsupervised Depth Completion via Occluded Region Completion as Supervision, ICLR 2026.
 # ORCaS: Unsupervised Depth Completion via Occluded Region Completion as Supervision
 
-[![Paper](https://img.shields.io/badge/Paper-ICLR_2026-blue.svg)](#) This is the official repository for the ICLR 2026 paper **ORCaS: Unsupervised Depth Completion via Occluded Region Completion as Supervision**[cite: 1, 2]. 
+[![Paper](https://img.shields.io/badge/Paper-ICLR_2026-blue.svg)](#) This is the official repository for the ICLR 2026 paper **ORCaS: Unsupervised Depth Completion via Occluded Region Completion as Supervision**. 
 
 **Authors:** Hyoungseob Park¹, Runjian Chen², Patrick Rim¹, Dong Lao³, Alex Wong¹  
 **Affiliations:** ¹Yale University, ²University of Hong Kong, ³Louisiana State University
